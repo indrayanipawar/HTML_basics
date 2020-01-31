@@ -1,0 +1,12 @@
+title attribute............. on hover pop up
+The HTML <pre> element defines preformatted text.
+<mark>  </mark>...............highlighted
+<del>   </del>..............decripted
+<sub> </sub>
+<sup>  </sup>
+<small>  </small>
+<abbr> </abbr>  Abbreviations
+<address>  </address>    Addresses the author
+<bdo>  </bdo>............changing the direction of writing
+<q>  </q>................quotations
+<blockquote> </blockquote>....quotations for entire blockquote
